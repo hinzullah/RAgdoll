@@ -202,9 +202,24 @@ p{
 
 }
 
+@media screen and (max-width: 1200px) {
+   
+    }
 
 
-
-
+@media only screen and (max-width: 950px) {
+       
+        }
   
- 
+@media screen and (max-width: 690px) {
+         
+            }
+
+@media screen and (max-width: 614px) {
+         
+
+            }
+
+@media screen and (max-width: 690px) {
+         
+            }
